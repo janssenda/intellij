@@ -1,0 +1,13 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/f18d1b3_spring-aop-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/d83fe593_spring-beans-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/f7d22907_spring-mvc.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/572c0afd_spring-tx-4.3.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/9b192256_xml.xsd" />
+    <resource url="http://xmlns.jcp.org/xml/ns/javaee/" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/5c989588_web-app_4_0.xsd" />
+    <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/5c989588_web-app_4_0.xsd" />
+  </component>
+</application>

@@ -1,0 +1,19 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="C:\backgrounds\grave.jpg" />
+            </array>
+          </option>
+          <option name="opacity" value="0.04" />
+          <option name="position" value="0" />
+          <option name="positionOffset" value="0" />
+          <option name="shrinkToFit" value="true" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
