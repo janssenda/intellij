@@ -4,9 +4,7 @@
       <list>
         <BackgroundConfiguration>
           <option name="fileNames">
-            <array>
-              <option value="C:\backgrounds\grave.jpg" />
-            </array>
+            <array />
           </option>
           <option name="opacity" value="0.09" />
           <option name="position" value="0" />
