@@ -4,11 +4,20 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2018-02-09T18:06:25</property>
+    <property name="modified">2018-02-09T18:29:11</property>
     <property name="originalScheme">Darcula</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
     <property name="version">0.1</property>
   </metaInfo>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="f0f0f" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
