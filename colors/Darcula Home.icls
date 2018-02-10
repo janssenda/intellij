@@ -1,12 +1,36 @@
 <scheme name="Darcula Home" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2018-02-09T21:33:20</property>
+    <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-02-09T21:37:01</property>
+    <property name="modified">2018-02-09T22:54:28</property>
     <property name="originalScheme">_@user_Darcula</property>
+    <property name="vendorMail" />
+    <property name="vendorName" />
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.05" />
   <attributes>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="36af78" />
+        <option name="BACKGROUND" value="3b3b3b" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="36af78" />
+        <option name="BACKGROUND" value="686868" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />

@@ -1,6 +1,15 @@
 <scheme name="Visual Studio Theme" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <metaInfo>
+    <property name="description" />
+    <property name="modified">2018-02-09T22:44:29</property>
+    <property name="vendorMail" />
+    <property name="vendorName" />
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Inconsolata" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eeeeee" />
@@ -370,6 +379,18 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="6e008c" />
+        <option name="BACKGROUND" value="ededed" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="6e008c" />
+        <option name="BACKGROUND" value="c0c0c0" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
