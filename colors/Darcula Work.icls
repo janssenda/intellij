@@ -1,12 +1,12 @@
-<scheme name="Darcula Home" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Work" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-02-09T21:33:20</property>
+    <property name="created">2018-02-12T09:01:07</property>
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-02-11T21:37:37</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="modified">2018-02-12T13:23:32</property>
+    <property name="originalScheme">Darcula Home</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
@@ -16,6 +16,13 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="76bc9a" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="36af78" />
@@ -34,10 +41,16 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="RUBY_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="676a6c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="1b1b1b" />
+        <option name="BACKGROUND" value="2d2d2d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
