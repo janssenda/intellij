@@ -1,15 +1,15 @@
-<scheme name="Darcula Home" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Work" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-02-11T21:37:26</property>
+    <property name="created">2018-02-12T09:01:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-02-12T08:54:20</property>
+    <property name="modified">2018-02-12T09:02:25</property>
     <property name="originalScheme">Darcula Home</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -32,7 +32,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="2e2e2e" />
+        <option name="BACKGROUND" value="2d2d2d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
