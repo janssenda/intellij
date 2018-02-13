@@ -1,16 +1,11 @@
-<scheme name="Darcula Work" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Home 2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-02-12T09:01:07</property>
-    <property name="description" />
+    <property name="created">2018-02-12T18:22:15</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-02-12T18:22:55</property>
-    <property name="originalScheme">Darcula Home</property>
-    <property name="vendorMail" />
-    <property name="vendorName" />
-    <property name="vendorUrl">http://</property>
-    <property name="version">0.1</property>
+    <property name="modified">2018-02-12T18:28:21</property>
+    <property name="originalScheme">Darcula Work</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -45,13 +40,6 @@
       <value>
         <option name="FOREGROUND" value="676a6c" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="2d2d2d" />
-        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
   </attributes>
