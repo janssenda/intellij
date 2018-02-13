@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="" type="Ruby" />
       <mapping ext="ldif" type="YAML" />
     </extensionMap>
   </component>
