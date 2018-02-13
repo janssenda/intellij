@@ -5,20 +5,16 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-02-12T18:05:23</property>
+    <property name="modified">2018-02-12T13:23:32</property>
     <property name="originalScheme">Darcula Home</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
     <property name="version">0.1</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.03" />
+  <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-  <colors>
-    <option name="CARET_ROW_COLOR" value="232323" />
-    <option name="GUTTER_BACKGROUND" value="" />
-  </colors>
   <attributes>
     <option name="INFO_ATTRIBUTES">
       <value>
@@ -54,7 +50,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="242424" />
+        <option name="BACKGROUND" value="2d2d2d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
