@@ -5,6 +5,7 @@
       <mapping pattern="Vagrantfile_base" type="Ruby" />
       <mapping pattern="Vagrantfile_full_start" type="Ruby" />
       <mapping pattern="Vagrantfile_Full_Start" type="Ruby" />
+      <mapping pattern="Vagrantfile_small" type="Ruby" />
       <mapping ext="ldif" type="YAML" />
     </extensionMap>
   </component>
