@@ -44,7 +44,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.6 (prft_private) interpreter library">
+    <library name="Python 3.6 interpreter library">
       <CLASSES>
         <root url="file://G:/Repositories/Perficient/Adobe/prft_private/venv/Lib" />
         <root url="file://G:/Repositories/Perficient/Adobe/prft_private/venv/Scripts" />
