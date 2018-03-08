@@ -1,11 +1,11 @@
 <scheme name="Darcula Work" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.5" />
   <metaInfo>
     <property name="created">2018-02-12T09:01:07</property>
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-02-19T08:40:47</property>
+    <property name="modified">2018-03-08T17:13:19</property>
     <property name="originalScheme">Darcula Home</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -13,9 +13,14 @@
     <property name="version">0.1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="76bc9a" />
