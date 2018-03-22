@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="gradlew" type="Bash" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pex" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile_base" type="Ruby" />
       <mapping pattern="Vagrantfile_full_start" type="Ruby" />
