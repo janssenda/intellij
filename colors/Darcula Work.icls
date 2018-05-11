@@ -5,15 +5,16 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-04-20T12:31:41</property>
+    <property name="modified">2018-04-17T19:18:14</property>
     <property name="originalScheme">Darcula Home</property>
     <property name="vendorMail" />
-    <property name="vendorName">intellij</property>
+    <property name="vendorName" />
     <property name="vendorUrl">http://</property>
     <property name="version">0.1</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_LINE_SPACING" value="1.05" />
+  <option name="LINE_SPACING" value="1.05" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
     <option name="BASH.HERE_DOC">
       <value>

@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="gradlew" type="Bash" />
+      <mapping pattern="user-sync" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping ext="pex" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile_base" type="Ruby" />
+      <mapping pattern="Vagrantfile_full_start" type="Ruby" />
+      <mapping pattern="ExtraVagrantFile" type="Ruby" />
+      <mapping pattern="Vagrantfile_small" type="Ruby" />
+      <mapping ext="ldif" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
