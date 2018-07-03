@@ -4,6 +4,7 @@
     <option name="LINE_SPACING" value="1.05" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
 </application>
