@@ -4,7 +4,7 @@
     <property name="created">2018-03-25T17:19:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-07-24T21:53:29</property>
+    <property name="modified">2018-08-01T13:50:18</property>
     <property name="originalScheme">GapStyle</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -87,6 +87,9 @@
       </value>
     </option>
     <option name="BASH.BRACE">
+      <value />
+    </option>
+    <option name="BASH.HERE_DOC">
       <value />
     </option>
     <option name="BASH.INTERNAL_COMMAND">
@@ -586,11 +589,7 @@
       </value>
     </option>
     <option name="HTML_CODE">
-      <value>
-        <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="2b2b2b" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
+      <value />
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
@@ -741,6 +740,9 @@
         <option name="FOREGROUND" value="4186f8" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -859,7 +861,6 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffef28" />
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -1091,6 +1092,24 @@
         <option name="FOREGROUND" value="98e22e" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_MIXIN">
