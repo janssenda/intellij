@@ -4,6 +4,7 @@
       <mapping pattern="gradlew" type="Bash" />
       <mapping pattern="user-sync" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="2-346" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pex" type="PLAIN_TEXT" />
