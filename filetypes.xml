@@ -2,21 +2,23 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="gradlew" type="Bash" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="user-sync" type="PLAIN_TEXT" />
-      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <removed_mapping pattern="Jenkinsfile" type="Jenkins file" />
       <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="dummypipeline" type="PLAIN_TEXT" />
+      <mapping pattern="user-sync" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="2-346" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="pex" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile_small" type="Ruby" />
+      <mapping pattern="ExtraVagrantFile" type="Ruby" />
       <mapping pattern="Vagrantfile_base" type="Ruby" />
       <mapping pattern="Vagrantfile_full_start" type="Ruby" />
-      <mapping pattern="ExtraVagrantFile" type="Ruby" />
-      <mapping pattern="Vagrantfile_small" type="Ruby" />
       <mapping ext="ldif" type="YAML" />
     </extensionMap>
   </component>
